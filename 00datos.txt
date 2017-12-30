@@ -1,0 +1,6 @@
+Dania Alejandra Soto García
+Ignacio Guerra Lorenzana
+Grupo: g754
+Mejoras:
+    -Navegacion.
+    -Almacenamiento de visitas.
