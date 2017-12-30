@@ -1,0 +1,37 @@
+$color: #262828;
+$backgroundcolor: #FFFDD1;
+
+body {
+  color: $color;
+  background-color: $backgroundcolor;
+}
+
+h2{
+	color: red;
+}
+.verde {
+  color: green;
+}
+.rojo {
+  color: red;
+}
+.star {
+  background-color: yellow;
+}
+.fright {
+  float: right;
+}
+.fleft {
+  float: left;
+}
+.filtros {
+  background-color: #f4e77e;
+  padding: 2%;
+  margin: 0.5%;
+}
+.listelement {
+  background-color: #7ED2FF;
+}
+.detail {
+  background-color: beige;
+}
